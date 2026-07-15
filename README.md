@@ -3,7 +3,7 @@
 **Project:** Parallel speculative decoding across heterogeneous cores on mobile \
 **Track:** Mobile AI \
 **Deadline:** Aug 14, 2026, 4:00pm PDT \
-**Status:** Ongoing progress towards Plan A \ 
+**Status:** Ongoing progress towards Plan A 
 
 ---
 
