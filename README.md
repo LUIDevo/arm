@@ -1,9 +1,9 @@
 # Arm AI Optimization Challenge — Project Plan & Results Log
 
-**Project:** Parallel speculative decoding across heterogeneous cores on mobile
-**Track:** Mobile AI
-**Deadline:** Aug 14, 2026, 4:00pm PDT
-**Status:** Ongoing progress towards Plan A
+**Project:** Parallel speculative decoding across heterogeneous cores on mobile \
+**Track:** Mobile AI \
+**Deadline:** Aug 14, 2026, 4:00pm PDT \
+**Status:** Ongoing progress towards Plan A \ 
 
 ---
 
@@ -57,5 +57,5 @@ Spread within condition: < 3%. These are the numbers to beat.
 
 ### Draft length sweep (pre-thermal-control — treat as noisy, re-run if it matters)
 
-n=1: 10.7 t/s (62.7% acc) · n=2: 6.9 (54.3%) · n=3: 11.8 (49.8%) · n=4: 8.8 (41.7%)
+n=1: 10.7 t/s (62.7% acc) · n=2: 6.9 (54.3%) · n=3: 11.8 (49.8%) · n=4: 8.8 (41.7%) \
 n=3 provisionally best; the n=2 dip is probably contamination.
